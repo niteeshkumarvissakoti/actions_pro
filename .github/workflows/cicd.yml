@@ -1,6 +1,6 @@
 
 
-name: Sonar Scan with Github Actions
+name: Sonar Scan with Github Actions 
 
 on:
   push:
